@@ -7,7 +7,7 @@ One can download the source code from github and modify it to allow their applic
 One can view a working model of the application on amazons S3 hardware. Link Will Be Provided.
 
 //1 How I Work
-This application has many reasons for being built. You are the one who needs to choose whih sector your idea can adapt this project to. Firstly one must understand how this application works.
+This application has many reasons for being built. You are the one who needs to choose which sector your idea can adapt this project to. Firstly one must understand how this application works.
 ---------------------------------------------------------------------------------------------------------------------------------
 I will start by outlining my setup on Amazon's Web Services.
 It is a good idea to view my logical diagrams and also the API workflow. One will see how I envisioned the flow of data and ussers inputs/outputs.
