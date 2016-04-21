@@ -33,3 +33,36 @@ C:\Users\Icarus\Documents\Visual Studio 2013\Projects\Security\Security\bin\Secu
 C:\Users\Icarus\Documents\Visual Studio 2013\Projects\Security\Security\bin\Security Sandboxing.dll.lastcodeanalysissucceeded
 C:\Users\Icarus\Documents\Visual Studio 2013\Projects\Security\Security\obj\Debug\Security Sandboxing.dll
 C:\Users\Icarus\Documents\Visual Studio 2013\Projects\Security\Security\obj\Debug\Security Sandboxing.pdb
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Security Sandboxing.dll.config
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Security Sandboxing.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Security Sandboxing.pdb
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Antlr3.Runtime.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\MySql.Data.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Newtonsoft.Json.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Net.Http.Formatting.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Helpers.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Http.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Http.WebHost.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Mvc.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Optimization.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Razor.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.WebPages.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.WebPages.Razor.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\WebGrease.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Newtonsoft.Json.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Net.Http.Formatting.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Helpers.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Http.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Http.WebHost.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Mvc.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Optimization.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.Razor.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.WebPages.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\System.Web.WebPages.Razor.xml
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\bin\Antlr3.Runtime.pdb
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\obj\Debug\Security Sandboxing.dll
+C:\Users\Icarus\Source\Repos\security-sandboxing\Security\Security\obj\Debug\Security Sandboxing.pdb
